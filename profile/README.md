@@ -42,10 +42,6 @@ CaptchaAI is an AI-powered image and CAPTCHA recognition service. captchaAI's ma
 - Image/Text CAPTCHAs: 27,500+ types
 
 - reCAPTCHA: v2, v3, Invisible
-
-- hCaptcha
-
-- GeeTest / FunCaptcha / Solve Media
   
 - Custom workflows via send / get_result, balance check, reporting, proxies, and async helpers
 
