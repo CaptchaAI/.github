@@ -16,7 +16,7 @@ CaptchaAI is an AI-powered image and CAPTCHA recognition service. captchaAI's ma
 ---
 
 ## ✨ Features
-- Supports **reCAPTCHA v2/v3/Invisible**, **hCaptcha**, **GeeTest**, **Solve Media**, and **27,500+ image CAPTCHAs**  
+- Supports **reCAPTCHA v2/v3/Invisible**, **Solve Media**, and **27,500+ image CAPTCHAs**  
 - **Low-latency** responses for real-time automation  
 - **Easy integrations** (REST API + official SDKs)  
 - **Secure, reliable infrastructure** with high availability
