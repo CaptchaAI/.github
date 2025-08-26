@@ -33,7 +33,26 @@ CaptchaAI is an AI-powered image and CAPTCHA recognition service. captchaAI's ma
 ## 🧩 Captcha solver extension
 [Captcha solver extensions](https://captchaai.com/lp/captcha-bypass-extension) allows you to automatically solve CAPTCHAs found on any webpage.
 
-[<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/38065632/338620838-da65574f-566a-44a7-891d-b439b28397a2.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250821%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250821T134449Z&X-Amz-Expires=300&X-Amz-Signature=f45a5c82dd53d5f5ae0b317e20721a975bdf065a758a4a859fab2b2ee7473bc1&X-Amz-SignedHeaders=host" width="158" height="30" alt="Chrome Extension" />](https://chromewebstore.google.com/detail/fnnmnnfpdnlkccecmiicejhimhkbolhk?utm_source=item-share-cb)  &nbsp;
+<a href="https://chromewebstore.google.com/detail/fnnmnnfpdnlkccecmiicejhimhkbolhk" target="_blank" rel="noopener">
+  <div style="
+    display:inline-flex;
+    align-items:center;
+    gap:8px;
+    border:1px solid #e5e7eb;
+    background:#fff;
+    padding:6px 12px;
+    border-radius:6px;
+    font-family:Arial, sans-serif;
+    font-size:14px;
+    font-weight:600;
+    color:#000;
+    text-decoration:none;
+  ">
+    <img src="https://fonts.gstatic.com/s/i/productlogos/chrome_store/v7/192px.svg"
+         alt="Chrome logo" width="24" height="24">
+    <span>Install on Chrome Web Store</span>
+  </div>
+</a>
 
 ---
 
@@ -60,7 +79,7 @@ To get started quickly, begin with the [Captcha Solver API documentation](https:
 [![YouTube](https://img.shields.io/badge/YouTube-Channel-FF0000?logo=youtube&logoColor=white&style=for-the-badge)](https://www.youtube.com/@captchaai) 
 
 ## 💬 Customer support 
-[![Telegram](https://img.shields.io/badge/Telegram-Channel-26A5E4?logo=telegram&logoColor=white&style=for-the-badge)](https://t.me/AskCaptchaAI) 
+[![Telegram](https://img.shields.io/badge/Contact-us-26A5E4?logo=telegram&logoColor=white&style=for-the-badge)](https://t.me/AskCaptchaAI)
 
 ---
 
