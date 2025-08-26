@@ -33,26 +33,7 @@ CaptchaAI is an AI-powered image and CAPTCHA recognition service. captchaAI's ma
 ## 🧩 Captcha solver extension
 [Captcha solver extensions](https://captchaai.com/lp/captcha-bypass-extension) allows you to automatically solve CAPTCHAs found on any webpage.
 
-<a href="https://chromewebstore.google.com/detail/fnnmnnfpdnlkccecmiicejhimhkbolhk" target="_blank" rel="noopener">
-  <div style="
-    display:inline-flex;
-    align-items:center;
-    gap:8px;
-    border:1px solid #e5e7eb;
-    background:#fff;
-    padding:6px 12px;
-    border-radius:6px;
-    font-family:Arial, sans-serif;
-    font-size:14px;
-    font-weight:600;
-    color:#000;
-    text-decoration:none;
-  ">
-    <img src="https://fonts.gstatic.com/s/i/productlogos/chrome_store/v7/192px.svg"
-         alt="Chrome logo" width="24" height="24">
-    <span>Install on Chrome Web Store</span>
-  </div>
-</a>
+[<img src="https://github.com/user-attachments/assets/c769964a-5965-49fb-8e55-cbff14955598" width="158" height="30" alt="Chrome Extension" />](https://chromewebstore.google.com/detail/fnnmnnfpdnlkccecmiicejhimhkbolhk?utm_source=item-share-cb) &nbsp;
 
 ---
 
