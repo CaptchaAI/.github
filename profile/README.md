@@ -1,6 +1,6 @@
 <!-- Banner / Logo -->
 <p align="center">
- <a href="https://captchaai.com/"> <img src="https://captchaai.com/assets/img/logo.png" alt="CaptchaAI Logo" width="300"/> </a>
+ <a href="https://captchaai.com/"> <img src="https://captchaai.com/logo.png" alt="CaptchaAI Logo" width="300"/> </a>
 </p>
 
 <p align="center">
