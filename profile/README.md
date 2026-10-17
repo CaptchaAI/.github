@@ -1,6 +1,6 @@
 <!-- Banner / Logo -->
 <p align="center">
- <a href="https://captchaai.com/"> <img src="https://captchaai.com/logo.png" alt="CaptchaAI Logo" width="300"/> </a>
+ <a href="https://captchaai.com/?utm_source=github&amp;utm_medium=profile&amp;utm_campaign=org-profile"> <img src="https://captchaai.com/logo.png" alt="CaptchaAI Logo" width="300"/> </a>
 </p>
 
 <p align="center">
@@ -11,7 +11,7 @@
 
 ## 🚀 What is CaptchaAI?
 
-CaptchaAI is an AI-powered image and CAPTCHA recognition service. captchaAI's main purpose is solving your CAPTCHAs in a quick and cost effictive way by using AI "Artificial Intelligence".
+CaptchaAI is an AI-powered image and CAPTCHA recognition service. captchaAI's main purpose is solving your CAPTCHAs in a quick and cost-effective way by using AI "Artificial Intelligence".
 
 ---
 
@@ -31,7 +31,7 @@ CaptchaAI is an AI-powered image and CAPTCHA recognition service. captchaAI's ma
 ---
 
 ## 🧩 Captcha solver extension
-[Captcha solver extensions](https://captchaai.com/lp/captcha-bypass-extension) allows you to automatically solve CAPTCHAs found on any webpage.
+[Captcha solver extensions](https://captchaai.com/lp/captcha-bypass-extension?utm_source=github&utm_medium=profile&utm_campaign=org-profile) allows you to automatically solve CAPTCHAs found on any webpage.
 
 [<img src="https://github.com/user-attachments/assets/c769964a-5965-49fb-8e55-cbff14955598" width="158" height="30" alt="Chrome Extension" />](https://chromewebstore.google.com/detail/fnnmnnfpdnlkccecmiicejhimhkbolhk?utm_source=item-share-cb) &nbsp;
 
@@ -41,14 +41,22 @@ CaptchaAI is an AI-powered image and CAPTCHA recognition service. captchaAI's ma
 
 - Image/Text CAPTCHAs: 27,500+ types
 
-- reCAPTCHA: v2, v3, Invisible
+- reCAPTCHA: v2, v2 Invisible, v2 Callback, v2 Enterprise, v3, v3 Enterprise
+
+- Cloudflare Turnstile and Cloudflare Challenge
+
+- GeeTest v3
+
+- Grid Image and BLS
+
+- In beta: CaptchaFox, Friendly Captcha, Lemin
   
 - Custom workflows via send / get_result, balance check, reporting, proxies, and async helpers
 
 ---
 
 ## 📚 Get started with captchaAI solver!
-To get started quickly, begin with the [Captcha Solver API documentation](https://captchaai.com/api-docs.php).
+To get started quickly, begin with the [Captcha Solver API documentation](https://captchaai.com/api-docs.php?utm_source=github&utm_medium=profile&utm_campaign=org-profile).
 
 ---
 
@@ -66,9 +74,9 @@ To get started quickly, begin with the [Captcha Solver API documentation](https:
 
 ## ⚙️ Useful Links
 
-- 🌐 Website: https://captchaai.com/
+- 🌐 Website: [https://captchaai.com/](https://captchaai.com/?utm_source=github&utm_medium=profile&utm_campaign=org-profile)
 
-- 📘 API Docs: https://captchaai.com/api-docs.php
+- 📘 API Docs: [https://captchaai.com/api-docs.php](https://captchaai.com/api-docs.php?utm_source=github&utm_medium=profile&utm_campaign=org-profile)
 
 - 🐍 PyPI: https://pypi.org/project/captchaai/
   
