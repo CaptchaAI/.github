@@ -33,7 +33,7 @@ CaptchaAI is an AI-powered image and CAPTCHA recognition service. captchaAI's ma
 ## 🧩 Captcha solver extension
 [Captcha solver extensions](https://captchaai.com/lp/captcha-bypass-extension?utm_source=github&utm_medium=profile&utm_campaign=org-profile) allows you to automatically solve CAPTCHAs found on any webpage.
 
-[<img src="https://github.com/user-attachments/assets/c769964a-5965-49fb-8e55-cbff14955598" width="158" height="30" alt="Chrome Extension" />](https://chromewebstore.google.com/detail/fnnmnnfpdnlkccecmiicejhimhkbolhk?utm_source=item-share-cb) &nbsp;
+[![Chrome Extension](https://img.shields.io/badge/Chrome-Extension-4285F4?logo=googlechrome&logoColor=white&style=for-the-badge)](https://chromewebstore.google.com/detail/fnnmnnfpdnlkccecmiicejhimhkbolhk?utm_source=item-share-cb) &nbsp;
 
 ---
 
@@ -56,7 +56,7 @@ CaptchaAI is an AI-powered image and CAPTCHA recognition service. captchaAI's ma
 ---
 
 ## 📚 Get started with captchaAI solver!
-To get started quickly, begin with the [Captcha Solver API documentation](https://captchaai.com/api-docs.php?utm_source=github&utm_medium=profile&utm_campaign=org-profile).
+To get started quickly, begin with the [Captcha Solver API documentation](https://docs.captchaai.com/?utm_source=github&utm_medium=profile&utm_campaign=org-profile).
 
 ---
 
@@ -76,7 +76,7 @@ To get started quickly, begin with the [Captcha Solver API documentation](https:
 
 - 🌐 Website: [https://captchaai.com/](https://captchaai.com/?utm_source=github&utm_medium=profile&utm_campaign=org-profile)
 
-- 📘 API Docs: [https://captchaai.com/api-docs.php](https://captchaai.com/api-docs.php?utm_source=github&utm_medium=profile&utm_campaign=org-profile)
+- 📘 API Docs: [https://captchaai.com/api-docs.php](https://docs.captchaai.com/?utm_source=github&utm_medium=profile&utm_campaign=org-profile)
 
 - 🐍 PyPI: https://pypi.org/project/captchaai/
   
