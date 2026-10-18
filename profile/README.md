@@ -76,7 +76,7 @@ To get started quickly, begin with the [Captcha Solver API documentation](https:
 
 - 🌐 Website: [https://captchaai.com/](https://captchaai.com/?utm_source=github&utm_medium=profile&utm_campaign=org-profile)
 
-- 📘 API Docs: [https://captchaai.com/api-docs.php](https://docs.captchaai.com/?utm_source=github&utm_medium=profile&utm_campaign=org-profile)
+- 📘 API Docs: [https://docs.captchaai.com/](https://docs.captchaai.com/?utm_source=github&utm_medium=profile&utm_campaign=org-profile)
 
 - 🐍 PyPI: https://pypi.org/project/captchaai/
   
