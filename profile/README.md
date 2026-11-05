@@ -12,7 +12,7 @@
   <a href="https://docs.captchaai.com/?utm_source=github&amp;utm_medium=profile&amp;utm_campaign=org-profile"><strong>API Documentation</strong></a> &nbsp;•&nbsp;
   <a href="#-official-sdks--developer-tools"><strong>Official SDKs</strong></a> &nbsp;•&nbsp;
   <a href="https://chromewebstore.google.com/detail/fnnmnnfpdnlkccecmiicejhimhkbolhk?utm_source=item-share-cb"><strong>Chrome Extension</strong></a> &nbsp;•&nbsp;
-  <a href="https://captchaai.com/?utm_source=github&amp;utm_medium=profile&amp;utm_campaign=org-profile#pricing"><strong>Pricing</strong></a>
+  <a href="https://captchaai.com/?utm_source=github&amp;utm_medium=profile&amp;utm_campaign=org-profile#pricing-plans"><strong>Pricing</strong></a>
 </p>
 
 ---
