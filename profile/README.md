@@ -43,7 +43,7 @@ We maintain official, production-ready libraries across 4 languages, 2 n8n commu
 | **Go SDK** | Go 1.22+ (`context.Context`, zero deps) | [`CaptchaAI/captchaai-go`](https://github.com/CaptchaAI/captchaai-go) | `go get github.com/CaptchaAI/captchaai-go` |
 | **n8n Solver Node** | n8n Community Package | [`CaptchaAI/n8n-nodes-captchaai`](https://github.com/CaptchaAI/n8n-nodes-captchaai) | Install `n8n-nodes-captchaai` in n8n |
 | **n8n Detector Node** | n8n Community Package | [`CaptchaAI/n8n-captchaai-detector`](https://github.com/CaptchaAI/n8n-captchaai-detector) | Install `n8n-nodes-captchaai-detect` in n8n |
-| **Workflow Doctor CLI** | Diagnostic CLI (`playwright`) | [`CaptchaAI/captchaai-workflow-doctor`](https://github.com/CaptchaAI/captchaai-workflow-doctor) | E2E failure root-cause analysis |
+| **Workflow Doctor CLI** | Diagnostic CLI (`playwright`) | [`CaptchaAI/captchaai-workflow-doctor`](https://github.com/CaptchaAI/captchaai-workflow-doctor) | `pip install captchaai-workflow-doctor` |
 | **Code Examples** | Multi-language recipes | [`CaptchaAI/CaptchaAI-Examples`](https://github.com/CaptchaAI/CaptchaAI-Examples) | Python, JS, PHP, Go, Java, Selenium |
 
 ### Quick Start (Python)
@@ -120,7 +120,8 @@ To get started quickly, check the [CaptchaAI Documentation](https://docs.captcha
 
 - 🌐 **Website:** [https://captchaai.com/](https://captchaai.com/?utm_source=github&amp;utm_medium=profile&amp;utm_campaign=org-profile)
 - 📘 **API Documentation:** [https://docs.captchaai.com/](https://docs.captchaai.com/?utm_source=github&amp;utm_medium=profile&amp;utm_campaign=org-profile)
-- 🐍 **PyPI (Python):** [`https://pypi.org/project/captchaai/`](https://pypi.org/project/captchaai/)
+- 🐍 **PyPI (Python SDK):** [`https://pypi.org/project/captchaai/`](https://pypi.org/project/captchaai/)
+- 🩺 **PyPI (Workflow Doctor CLI):** [`https://pypi.org/project/captchaai-workflow-doctor/`](https://pypi.org/project/captchaai-workflow-doctor/)
 - 📦 **npm (Node.js/TS):** [`https://www.npmjs.com/package/captchaai-javascript`](https://www.npmjs.com/package/captchaai-javascript)
 - 🐘 **Packagist (PHP):** [`https://packagist.org/packages/captchaai/captchaai`](https://packagist.org/packages/captchaai/captchaai)
 - 🐹 **pkg.go.dev (Go):** [`https://pkg.go.dev/github.com/CaptchaAI/captchaai-go`](https://pkg.go.dev/github.com/CaptchaAI/captchaai-go)
